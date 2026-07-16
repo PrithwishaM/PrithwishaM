@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src=<img width="736" height="414" alt=" -5" src="https://github.com/user-attachments/assets/93dc8445-2d85-40e5-9826-5040c4ddb0e3" />
+  <img src="-5.jpg" alt="AI Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Prithwisha</h1>
