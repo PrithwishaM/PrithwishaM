@@ -3,7 +3,8 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="banner.png" alt="AI Banner" width="100%" />
+  <img src=<img width="870" height="388" alt="サイバーシティー" src="https://github.com/user-attachments/assets/ceed5726-9171-480e-afa0-fa962c88256e" /> 
+>
 </p>
 
 <h1 align="center">Hi 👋, I'm Prithwisha</h1>
