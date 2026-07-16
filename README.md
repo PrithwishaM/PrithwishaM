@@ -3,7 +3,7 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src=<img width="870" height="388" alt="サイバーシティー" src="https://github.com/user-attachments/assets/ceed5726-9171-480e-afa0-fa962c88256e" /> 
+  <img src=<img width="736" height="414" alt=" -5" src="https://github.com/user-attachments/assets/93dc8445-2d85-40e5-9826-5040c4ddb0e3" />
 >
 </p>
 
